@@ -3,3 +3,11 @@ body{
 }
  .cabeçalho {
     margin-bottom: 10px;
+     .cabeçalho {
+    background-color: rgb(4, 23, 230);
+    color:rgb(1, 28, 28)
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding : 23px 0;
+     }
